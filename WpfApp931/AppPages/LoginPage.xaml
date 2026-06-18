@@ -11,7 +11,9 @@
     <Grid>
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="206">
             <TextBlock>Логин</TextBlock>
-            <TextBox/>
+            <TextBox x:Name="TbLogin"/>
+            <TextBlock>Пароль</TextBlock>
+            <PasswordBox x:Name="TbPassword"/>
             <Button Content="Войти" Margin="0,10,0,0" x:Name="Enter" Click="Enter_Click"/>
         </StackPanel>
     </Grid>

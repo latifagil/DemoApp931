@@ -11,8 +11,9 @@
             <RowDefinition Height="75"/>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        <StackPanel Background="Black">
-            <TextBlock Foreground="White" FontSize="32">Приложение</TextBlock>
+        <StackPanel Background="Wheat" Grid.Row="0" Orientation="Horizontal">
+            <Image Source="/Resources/Icon.png" Height="75"/>
+            <TextBlock Foreground="Black" FontSize="32">Приложение</TextBlock>
         </StackPanel>
         <Frame x:Name="MainFrame" Grid.Row="1" NavigationUIVisibility="Hidden"/>
     </Grid>

@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WpfApp931.Models;
 
 namespace WpfApp931.AppPages
 {
@@ -20,9 +21,11 @@ namespace WpfApp931.AppPages
     /// </summary>
     public partial class UserPage : Page
     {
-        public UserPage()
+        public UserPage(Users users)
         {
             InitializeComponent();
+
+            CurrentUser.currentUser = users;
         }
 
         private void Back_Click(object sender, RoutedEventArgs e)

@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WpfApp931.Models;
 
 namespace WpfApp931.AppPages
 {
@@ -27,7 +28,28 @@ namespace WpfApp931.AppPages
 
         private void Enter_Click(object sender, RoutedEventArgs e)
         {
-            NavigationService.Navigate(new UserPage());
+            var loginObj = ConnectionClass.test931Entities.Users
+                .Where(x => x.Login == TbLogin.Text && x.Password == TbPassword.Password)
+                .FirstOrDefault();
+            if (loginObj == null) 
+            {
+                MessageBox.Show("Неверный логин или пароль", "Пользователь не найден",
+                    MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+            CurrentUser.currentUser = loginObj;
+
+            switch (loginObj.RoleId)
+            {
+                case 1:
+                    NavigationService.Navigate(new AdminPage(loginObj));
+                    break;
+                case 2:
+                    NavigationService.Navigate(new UserPage(loginObj));
+                    break;
+                default:
+                    NavigationService.Navigate(new UserPage(loginObj));
+                    break;
+            }
         }
     }
 }

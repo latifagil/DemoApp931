@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|c:\\users\\gilaz\\source\\repos\\wpfapp931\\wpfapp931\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|C:\\Users\\gilaz\\source\\repos\\WpfApp931\\wpfapp931\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|C:\\Users\\gilaz\\source\\repos\\WpfApp931\\wpfapp931\\apppages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\apppages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|C:\\Users\\gilaz\\source\\repos\\WpfApp931\\wpfapp931\\apppages\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\apppages\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -23,8 +11,44 @@
       "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\apppages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|c:\\users\\gilaz\\source\\repos\\wpfapp931\\wpfapp931\\apppages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\apppages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|C:\\Users\\gilaz\\source\\repos\\WpfApp931\\wpfapp931\\apppages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\apppages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|C:\\Users\\gilaz\\source\\repos\\WpfApp931\\wpfapp931\\apppages\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\apppages\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|c:\\users\\gilaz\\source\\repos\\wpfapp931\\wpfapp931\\apppages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\apppages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|c:\\users\\gilaz\\source\\repos\\wpfapp931\\wpfapp931\\models\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\models\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|c:\\users\\gilaz\\source\\repos\\wpfapp931\\wpfapp931\\models\\connectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\models\\connectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|c:\\users\\gilaz\\source\\repos\\wpfapp931\\wpfapp931\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|c:\\users\\gilaz\\source\\repos\\wpfapp931\\wpfapp931\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|C:\\Users\\gilaz\\source\\repos\\WpfApp931\\wpfapp931\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|c:\\users\\gilaz\\source\\repos\\wpfapp931\\wpfapp931\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,70 +94,150 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppPages\\LoginPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\LoginPage.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp931\\AppPages\\LoginPage.xaml.cs",
-              "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\LoginPage.xaml.cs",
-              "RelativeToolTip": "WpfApp931\\AppPages\\LoginPage.xaml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwB0AAAA3AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AdminPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\AdminPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp931\\AppPages\\AdminPage.xaml.cs",
+              "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\AdminPage.xaml.cs",
+              "RelativeToolTip": "WpfApp931\\AppPages\\AdminPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T09:32:39.303Z"
+              "WhenOpened": "2026-06-18T06:49:11.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\Models\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "WpfApp931\\Models\\CurrentUser.cs",
+              "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\Models\\CurrentUser.cs",
+              "RelativeToolTip": "WpfApp931\\Models\\CurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T06:29:04.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConnectionClass.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\Models\\ConnectionClass.cs",
+              "RelativeDocumentMoniker": "WpfApp931\\Models\\ConnectionClass.cs",
+              "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\Models\\ConnectionClass.cs",
+              "RelativeToolTip": "WpfApp931\\Models\\ConnectionClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T06:19:45.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "WpfApp931\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WpfApp931\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-06-18T06:14:15.074Z",
+              "EditorCaption": " [Diagram1]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AppPages\\UserPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\UserPage.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp931\\AppPages\\UserPage.xaml.cs",
-              "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\UserPage.xaml.cs",
-              "RelativeToolTip": "WpfApp931\\AppPages\\UserPage.xaml.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswBwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T09:31:56.234Z"
+              "Title": "AdminPage.xaml",
+              "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\AdminPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp931\\AppPages\\AdminPage.xaml",
+              "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\AdminPage.xaml",
+              "RelativeToolTip": "WpfApp931\\AppPages\\AdminPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-18T06:10:06.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UserPage.xaml",
               "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\UserPage.xaml",
               "RelativeDocumentMoniker": "WpfApp931\\AppPages\\UserPage.xaml",
               "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\UserPage.xaml",
               "RelativeToolTip": "WpfApp931\\AppPages\\UserPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-11T09:29:23.842Z"
+              "WhenOpened": "2026-06-11T09:29:23.842Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LoginPage.xaml",
               "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\LoginPage.xaml",
               "RelativeDocumentMoniker": "WpfApp931\\AppPages\\LoginPage.xaml",
               "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\LoginPage.xaml",
               "RelativeToolTip": "WpfApp931\\AppPages\\LoginPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-11T09:25:42.758Z"
+              "WhenOpened": "2026-06-11T09:25:42.758Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp931\\AppPages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "WpfApp931\\AppPages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:32:39.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\UserPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp931\\AppPages\\UserPage.xaml.cs",
+              "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\UserPage.xaml.cs",
+              "RelativeToolTip": "WpfApp931\\AppPages\\UserPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:31:56.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp931\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\MainWindow.xaml",
               "RelativeToolTip": "WpfApp931\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-11T09:19:46.923Z"
+              "WhenOpened": "2026-06-11T09:19:46.923Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp931\\App.xaml",
+              "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\App.xaml",
+              "RelativeToolTip": "WpfApp931\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-18T06:06:58.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp931\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfApp931\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T09:19:46.245Z",
               "EditorCaption": ""
