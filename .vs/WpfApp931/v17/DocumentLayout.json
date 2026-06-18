@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|c:\\users\\gilaz\\source\\repos\\wpfapp931\\wpfapp931\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|C:\\Users\\gilaz\\source\\repos\\WpfApp931\\wpfapp931\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|C:\\Users\\gilaz\\source\\repos\\WpfApp931\\wpfapp931\\apppages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\apppages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|C:\\Users\\gilaz\\source\\repos\\WpfApp931\\wpfapp931\\apppages\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\apppages\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|C:\\Users\\gilaz\\source\\repos\\WpfApp931\\wpfapp931\\apppages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\apppages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|C:\\Users\\gilaz\\source\\repos\\WpfApp931\\wpfapp931\\apppages\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49B146F-A568-4777-9021-5C476D52C322}|WpfApp931\\WpfApp931.csproj|solutionrelative:wpfapp931\\apppages\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1899577083:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{73068c07-fba1-453f-99ae-6edf972119b2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppPages\\LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp931\\AppPages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "WpfApp931\\AppPages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:32:39.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppPages\\UserPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\UserPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp931\\AppPages\\UserPage.xaml.cs",
+              "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\UserPage.xaml.cs",
+              "RelativeToolTip": "WpfApp931\\AppPages\\UserPage.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:31:56.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserPage.xaml",
+              "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\UserPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp931\\AppPages\\UserPage.xaml",
+              "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\UserPage.xaml",
+              "RelativeToolTip": "WpfApp931\\AppPages\\UserPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-11T09:29:23.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "WpfApp931\\AppPages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\AppPages\\LoginPage.xaml",
+              "RelativeToolTip": "WpfApp931\\AppPages\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-11T09:25:42.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp931\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp931\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-11T09:19:46.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp931\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\gilaz\\source\\repos\\WpfApp931\\WpfApp931\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp931\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T09:19:46.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 461,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
